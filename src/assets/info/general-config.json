@@ -5,15 +5,15 @@
   "defaultTitle": "MSMC |",
   "icon": "/faction-logos/msmc.svg",
   "header": {
-    "planet": "Heiligtum-6 'Deep Blue'",
-    "year": "5017u",
-    "system": "Heiligtum",
-    "gate": "Rào Cỏ",
-    "ring": "Annamite",
+    "planet": "DS-5 'Viridian'",
+    "year": "5033u",
+    "system": "Dawnline Shore",
+    "gate": "Blink 1",
+    "ring": "Orion arm",
     "headerTitle": "Mirrorsmoke",
     "headerSubtitle": "Mercenary Company",
     "subheaderTitle": "Contract Work",
-    "subheaderSubtitle": "Sierra-Whiskey-Alpha-Golf"
+    "subheaderSubtitle": "Zulu-Bravo-Bravo-November"
   },
   "pilotSpecialInfo": {}
 }
